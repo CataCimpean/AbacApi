@@ -21,8 +21,9 @@ namespace Abac.Web.Api.Controllers
         [HttpPut]
         public async Task<IActionResult> PutAsync([FromBody] PlanetDTO model)
         {
-            if (await _planetService.Update(model)!=null)
-                return Ok();
+            var result = await _planetService.Update(model);
+            if (result != null)
+                return Ok(result);
             else
                 return NotFound();
         }
