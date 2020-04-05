@@ -1,3 +1,5 @@
 /.vs
 /Abac.Web.Api/publish
 /Abac.Web.Api/appsettings.json
+/Abac.Web.Api/bin
+/Abac.Web.Api.Infrastructure/bin
