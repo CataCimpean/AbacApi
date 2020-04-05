@@ -1,0 +1,12 @@
+C:\WorkspaceNET\Interview\Abac\Abac\Abac.Web.Api.Core\bin\release\netstandard2.1\Abac.Web.Api.Core.deps.json
+C:\WorkspaceNET\Interview\Abac\Abac\Abac.Web.Api.Core\bin\release\netstandard2.1\Abac.Web.Api.Core.dll
+C:\WorkspaceNET\Interview\Abac\Abac\Abac.Web.Api.Core\bin\release\netstandard2.1\Abac.Web.Api.Core.pdb
+C:\WorkspaceNET\Interview\Abac\Abac\Abac.Web.Api.Core\bin\release\netstandard2.1\Abac.Web.Api.Infrastructure.dll
+C:\WorkspaceNET\Interview\Abac\Abac\Abac.Web.Api.Core\bin\release\netstandard2.1\Abac.Web.Api.Infrastructure.pdb
+C:\WorkspaceNET\Interview\Abac\Abac\Abac.Web.Api.Core\bin\release\netstandard2.1\Abac.Web.Api.Infrastructure.dll.config
+C:\WorkspaceNET\Interview\Abac\Abac\Abac.Web.Api.Core\obj\release\netstandard2.1\Abac.Web.Api.Core.csprojAssemblyReference.cache
+C:\WorkspaceNET\Interview\Abac\Abac\Abac.Web.Api.Core\obj\release\netstandard2.1\Abac.Web.Api.Core.AssemblyInfoInputs.cache
+C:\WorkspaceNET\Interview\Abac\Abac\Abac.Web.Api.Core\obj\release\netstandard2.1\Abac.Web.Api.Core.AssemblyInfo.cs
+C:\WorkspaceNET\Interview\Abac\Abac\Abac.Web.Api.Core\obj\release\netstandard2.1\Abac.Web.Api.Core.csproj.CopyComplete
+C:\WorkspaceNET\Interview\Abac\Abac\Abac.Web.Api.Core\obj\release\netstandard2.1\Abac.Web.Api.Core.dll
+C:\WorkspaceNET\Interview\Abac\Abac\Abac.Web.Api.Core\obj\release\netstandard2.1\Abac.Web.Api.Core.pdb

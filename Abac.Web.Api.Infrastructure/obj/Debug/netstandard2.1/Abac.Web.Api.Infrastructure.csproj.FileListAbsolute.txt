@@ -1,0 +1,8 @@
+C:\WorkspaceNET\Interview\Abac\Abac\Abac.Web.Api.Infrastructure\bin\Debug\netstandard2.1\Abac.Web.Api.Infrastructure.dll.config
+C:\WorkspaceNET\Interview\Abac\Abac\Abac.Web.Api.Infrastructure\bin\Debug\netstandard2.1\Abac.Web.Api.Infrastructure.deps.json
+C:\WorkspaceNET\Interview\Abac\Abac\Abac.Web.Api.Infrastructure\bin\Debug\netstandard2.1\Abac.Web.Api.Infrastructure.dll
+C:\WorkspaceNET\Interview\Abac\Abac\Abac.Web.Api.Infrastructure\bin\Debug\netstandard2.1\Abac.Web.Api.Infrastructure.pdb
+C:\WorkspaceNET\Interview\Abac\Abac\Abac.Web.Api.Infrastructure\obj\Debug\netstandard2.1\Abac.Web.Api.Infrastructure.AssemblyInfoInputs.cache
+C:\WorkspaceNET\Interview\Abac\Abac\Abac.Web.Api.Infrastructure\obj\Debug\netstandard2.1\Abac.Web.Api.Infrastructure.AssemblyInfo.cs
+C:\WorkspaceNET\Interview\Abac\Abac\Abac.Web.Api.Infrastructure\obj\Debug\netstandard2.1\Abac.Web.Api.Infrastructure.dll
+C:\WorkspaceNET\Interview\Abac\Abac\Abac.Web.Api.Infrastructure\obj\Debug\netstandard2.1\Abac.Web.Api.Infrastructure.pdb
