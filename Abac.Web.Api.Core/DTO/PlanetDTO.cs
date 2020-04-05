@@ -8,7 +8,7 @@ namespace Abac.Web.Api.Core.DTO
         [RequiredGreaterThanZero(ErrorMessage="Value for Id must be greater than > 0.")]
         public int Id { get; set; }
 
-        public bool? Status { get; set; }
+        public string Status { get; set; }
 
         [StringLength(50, ErrorMessage = "String Length must be smaller than 50 characters")]
         public string Name { get; set; }

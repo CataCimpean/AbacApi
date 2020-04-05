@@ -28,7 +28,7 @@ namespace Abac.Web.Api.Core.Config.AutoMapper
             CreateMap<Planet, ColonistPlanetDTO>()
                  .ForMember(d => d.PlanetId, opt => opt.MapFrom(s => s.Id))
                  .ForMember(d => d.CaptainName, opt => opt.MapFrom(s => s.ColonistPlanet.Where(x => x.Colonist.TypeId == 1).Select(x => x.Colonist.Name).FirstOrDefault()))
-                 .ForMember(d => d.Status, opt => opt.MapFrom(s => s.Status == null ? "En route" : (s.Status == true ? "OK" : "!OK")))
+                 .ForMember(d => d.Status, opt => opt.MapFrom(s => s.Status))
                  .ForMember(d => d.PlanetName, opt => opt.MapFrom(s => s.Name))
                  .ForMember(d => d.PlanetDescription, opt => opt.MapFrom(s => s.Description))
                  .ForMember(d => d.PlanetImageUrl, opt => opt.MapFrom(s => s.ImageLink))
