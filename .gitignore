@@ -3,3 +3,6 @@
 /Abac.Web.Api/appsettings.json
 /Abac.Web.Api/bin
 /Abac.Web.Api.Infrastructure/bin
+/Abac.Web.Api/obj
+/Abac.Web.Api.Core/obj
+/Abac.Web.Api.Infrastructure/obj
